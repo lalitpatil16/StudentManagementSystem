@@ -1,4 +1,4 @@
-# Final Student Management System
+#  Student Management System
 
 ## Features
 - JWT Authentication
